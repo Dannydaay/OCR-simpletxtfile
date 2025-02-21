@@ -1,1 +1,1 @@
-# ORC-simpletxtfile
+OCR 光學字元辨識
